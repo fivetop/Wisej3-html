@@ -1,0 +1,143 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.8": {
+      "Wisej-3/3.1.1-beta.8": {
+        "type": "package",
+        "compile": {
+          "lib/net48/Wisej.Framework.dll": {}
+        },
+        "runtime": {
+          "lib/net48/Wisej.Framework.dll": {}
+        },
+        "resource": {
+          "lib/net48/de/Wisej.Framework.resources.dll": {
+            "locale": "de"
+          },
+          "lib/net48/es/Wisej.Framework.resources.dll": {
+            "locale": "es"
+          },
+          "lib/net48/fr/Wisej.Framework.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/net48/it/Wisej.Framework.resources.dll": {
+            "locale": "it"
+          },
+          "lib/net48/pt/Wisej.Framework.resources.dll": {
+            "locale": "pt"
+          },
+          "lib/net48/tr/Wisej.Framework.resources.dll": {
+            "locale": "tr"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Wisej-3/3.1.1-beta.8": {
+      "sha512": "sCMxi0ZU7p5CkW6YgDk/kVSvEym2CgMHbqMvugHM5uBvN40W5xG1C9oGO1tpSSICr+3ZheDCbFemYdUM2Dy07w==",
+      "type": "package",
+      "path": "wisej-3/3.1.1-beta.8",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "EULA-3.1.txt",
+        "images/Wisej.png",
+        "lib/net48/Wisej.Framework.dll",
+        "lib/net48/Wisej.Framework.xml",
+        "lib/net48/de/Wisej.Framework.resources.dll",
+        "lib/net48/es/Wisej.Framework.resources.dll",
+        "lib/net48/fr/Wisej.Framework.resources.dll",
+        "lib/net48/it/Wisej.Framework.resources.dll",
+        "lib/net48/pt/Wisej.Framework.resources.dll",
+        "lib/net48/tr/Wisej.Framework.resources.dll",
+        "lib/net6.0/Wisej.Framework.dll",
+        "lib/net6.0/Wisej.Framework.xml",
+        "lib/net6.0/cs/Wisej.Framework.resources.dll",
+        "lib/net6.0/de/Wisej.Framework.resources.dll",
+        "lib/net6.0/es/Wisej.Framework.resources.dll",
+        "lib/net6.0/fr/Wisej.Framework.resources.dll",
+        "lib/net6.0/it/Wisej.Framework.resources.dll",
+        "lib/net6.0/ja/Wisej.Framework.resources.dll",
+        "lib/net6.0/ko/Wisej.Framework.resources.dll",
+        "lib/net6.0/pl/Wisej.Framework.resources.dll",
+        "lib/net6.0/pt-BR/Wisej.Framework.resources.dll",
+        "lib/net6.0/pt/Wisej.Framework.resources.dll",
+        "lib/net6.0/ru/Wisej.Framework.resources.dll",
+        "lib/net6.0/tr/Wisej.Framework.resources.dll",
+        "lib/net6.0/zh-Hans/Wisej.Framework.resources.dll",
+        "lib/net6.0/zh-Hant/Wisej.Framework.resources.dll",
+        "wisej-3.3.1.1-beta.8.nupkg.sha512",
+        "wisej-3.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.8": [
+      "Wisej-3 >= 3.*-*"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\User\\.nuget\\packages\\": {},
+    "e:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "e:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\0 신사업\\demo\\webPA\\newrep\\0 wisej\\0 wise-sample\\0 HTML\\html\\html\\HtmlPanelDemo\\HtmlPanelDemo.csproj",
+      "projectName": "HtmlPanelDemo",
+      "projectPath": "E:\\0 신사업\\demo\\webPA\\newrep\\0 wisej\\0 wise-sample\\0 HTML\\html\\html\\HtmlPanelDemo\\HtmlPanelDemo.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "E:\\0 신사업\\demo\\webPA\\newrep\\0 wisej\\0 wise-sample\\0 HTML\\html\\html\\HtmlPanelDemo\\obj\\",
+      "projectStyle": "PackageReference",
+      "crossTargeting": true,
+      "fallbackFolders": [
+        "e:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "e:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Wisej-3.0.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net48"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\IceTeaGroup\\Wisej 3.0\\nuget\\": {},
+        "C:\\Users\\User\\.nuget\\packages\\": {},
+        "E:\\0 신사업\\demo\\webPA\\newrep\\packages": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net48": {
+        "targetAlias": "net48",
+        "dependencies": {
+          "Wisej-3": {
+            "target": "Package",
+            "version": "[3.*-*, )"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

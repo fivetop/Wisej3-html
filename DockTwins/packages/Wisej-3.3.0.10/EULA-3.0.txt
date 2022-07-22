@@ -1,0 +1,40 @@
+Wisej End User License Agreement (v2.0)
+
+IMPORTANT-READ CAREFULLY
+This End-User License Agreement (“EULA”) is a legal license agreement between you ("You" and "Your" includes a person and/or a legal entity) and Ice Tea Group LLC ("ITG"), for the Wisej Software (“WISEJ”), which may include the user manual, any associated software components, any media, any other printed materials, and any online or electronic documentation. READ THE TERMS OF THIS EULA CAREFULLY. BY INSTALLING, COPYING OR OTHERWISE USING WISEJ, YOU AGREE TO BE BOUND BY THE TERMS OF THIS EULA. WRITTEN ASSENT IS NOT A PREREQUISITE TO THE VALIDITY OR ENFORCEABILITY OF THIS EULA. IF YOU DO NOT AGREE WITH THE TERMS OF THIS EULA, DO NOT INSTALL, COPY OR USE THE SOFTWARE. WISEJ IS LICENSES, NOT SOLD.
+
+GRANT OF LICENSE.
+This EULA grants You a perpetual, nonexclusive license to use WISEJ Developer or WISEJ Server in binary code form only, subject to the restrictions herein and the specific restriction of the license type you have purchased.
+
+RESTRICTIONS
+You may not install WISEJ on a deployment server or on a server used by a third-party entity without a valid WISEJ Server license. You may not modify, translate, reverse engineer, de-compile, disassemble, or otherwise attempt to derive source code from WISEJ, in whole or in part, except and only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation. You may not rent, sell, lease, or lend WISEJ without prior written consent from ITG. You may not publish or publicly distribute any license codes, access codes, unlock codes, passwords, or other end-user-specific registration information that would allow a third party to activate WISEJ without a valid license. 
+
+TRANSFER
+You may transfer WISEJ and accompanying written materials on a permanent basis, provided: (i) you retain no copies; (ii) the recipient expressly agrees to the terms of this EULA; (iii) you contact ITG prior to the transfer to inform ITG of such transfer; and (iv)the transfer is part of a larger transaction, which includes a sale or transfer of the right to develop and sell Your applications that work in conjunction with WISEJ or a sale of substantially all of Your business. Upon such transfer, your license under this EULA is automatically terminated.
+
+SUPPORT SERVICES
+ITG may provide you with support services related to WISEJ as described in the online documentation, and/or other ITG-provided materials, and as they may be modified from time to time. Any supplemental WISEJ code provided to you shall be considered part of WISEJ and subject to the terms and conditions of this EULA. 
+
+TERMINATION
+Without prejudice to any other rights, ITG may terminate this EULA if you fail to comply with any of the material terms and conditions of this EULA. In such event, you must uninstall and/or destroy all copies of WISEJ. You may terminate this license at any time by destroying the original and all copies of WISEJ in whatever form.
+
+NO OTHER RIGHTS
+ITG claims and reserves title to WISEJ, ITG trademarks, service marks, trade names, icons and logos, any and all copyright rights, patent rights, trade secrets rights, and other intellectual property rights and proprietary rights throughout the world, and all confidential information, and all rights and benefits afforded by available United States and international laws and international treaty provisions protecting copyright and other intellectual property rights. You acknowledge that this EULA does not transfer title to the intellectual property in WISEJ to you. You further acknowledge that you will not acquire any rights to WISEJ whatsoever except as expressly set forth in this license. Nothing herein shall be construed to limit the rights of ITG to use, modify, adapt, or enhance WISEJ, or any derivative works based on WISEJ, for their own purposes.
+
+INDEMNIFICATION
+You agree to indemnify, hold harmless and defend ITG and its directors, officers, employees, affiliates, sub-licensees, agents, and representatives from and against all losses, expenses (including but not limited to all attorney’s fees, expert fees and other legal expenses), judgments, claims, demands, suits, or other actions, that arise or result from the use or distribution of your application(s), except to the extent caused by willful misconduct by ITG. 
+
+PRIVACY
+When you activate or validate your WISEJ license (Developer or Server), we record the machine name, the public IP Address and MAC Address of the device using the license. IF YOU DO NOT AGREE, DO NOT INSTALL, COPY OR USE THE SOFTWARE.
+
+LIMITED WARRANTY
+ITG warrants that WISEJ will perform substantially in accordance with the accompanying written materials for a period of 90 days from the date of your purchase of a WISEJ license. ITG DISCLAIMS ALL OTHER REPRESENTATIONS OR WARRANTIES, EITHER EXPRESS, IMPLIED, OR STATUTORY, AND ITG SPECIFICALLY DISCLAIMS ANY IMPLIED WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT, ARISING OUT OF OR RELATING TO WISEJ AND THE ACCOMPANYING WRITTEN MATERIALS. ITG has no obligation to assist in your installation or use of WISEJ or to provide services or maintenance of any type with respect to WISEJ, unless otherwise expressly agreed in writing. You acknowledge that WISEJ may contain errors or bugs. You must determine whether WISEJ sufficiently meets your requirements. This disclaimer and limitation of representations and warranties constitutes an essential part of this EULA. 
+
+LIMITATION OF LIABILITY
+IN NO EVENT SHALL ITG, ITS DIRECTORS, OFFICERS, EMPLOYEES, AFFILIATES, PARTNERS, CONSULTANTS, REPRESENTATIVES, AGENTS OR ITS SUPPLIERS BE LIABLE TO YOU FOR ANY LOST PROFITS OR BUSINESS OPPORTUNITIES, LOSS OF USE, BUSINESS INTERRUPTION, LOSS OF DATA, OR ANY OTHER CONSEQUENTIAL, SPECIAL, INCIDENTAL, OR INDIRECT DAMAGES OF ANY KIND UNDER ANY THEORY OF LIABILITY, WHETHER BASED IN CONTRACT, TORT, NEGLIGENCE, PRODUCT LIABILITY, OR OTHERWISE ARISING OUT OF THE DELIVERY, PERFORMANCE, OR USE OF WISEJ, OR OTHERWISE ARISING OUT OF OR RELATING TO THE SUBJECT MATTER OF THIS EULA. THIS LIMITATION SHALL APPLY REGARDLESS OF WHETHER ITG HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. IN ANY EVENT, ITG’S LIABILITY FOR ANY CLAIM, WHETHER IN CONTRACT, TORT, OR ANY OTHER THEORY OF LIABILITY WILL NOT EXCEED THE AMOUNT OF USD $1.00. 
+
+MISCELLANEOUS
+If any provision of this EULA is held to be unenforceable for any reason, such provision shall be modified only to the extent necessary to make it enforceable. This EULA shall be governed by and construed in accordance with the laws of the State of Maryland irrespective of any conflicts of law principles. You agree that any legal action arising out of or in connection with this EULA shall be brought in the state or federal courts, as appropriate, in Montgomery County, Maryland, USA. The applicability of the United Nations Convention of Contracts for the International Sale of Goods is expressly excluded.
+
+ENTIRE AGREEMENT
+This EULA is the entire agreement between you and ITG relating to WISEJ and it supersedes all prior or contemporaneous oral or written communications, proposals and representations with respect to WISEJ or any other subject matter covered by this EULA.

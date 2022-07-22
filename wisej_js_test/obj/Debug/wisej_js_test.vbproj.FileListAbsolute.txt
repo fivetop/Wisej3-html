@@ -1,0 +1,60 @@
+E:\JJIT\Interfaces\wisej_js_test\wisej_js_test\bin\wisej_js_test.dll.config
+E:\JJIT\Interfaces\wisej_js_test\wisej_js_test\bin\wisej_js_test.dll
+E:\JJIT\Interfaces\wisej_js_test\wisej_js_test\bin\wisej_js_test.pdb
+E:\JJIT\Interfaces\wisej_js_test\wisej_js_test\bin\Wisej.Core.dll
+E:\JJIT\Interfaces\wisej_js_test\wisej_js_test\bin\Wisej.Web.dll
+E:\JJIT\Interfaces\wisej_js_test\wisej_js_test\bin\Wisej.Core.xml
+E:\JJIT\Interfaces\wisej_js_test\wisej_js_test\bin\Wisej.Web.xml
+E:\JJIT\Interfaces\wisej_js_test\wisej_js_test\bin\de\Wisej.Core.resources.dll
+E:\JJIT\Interfaces\wisej_js_test\wisej_js_test\bin\fr\Wisej.Core.resources.dll
+E:\JJIT\Interfaces\wisej_js_test\wisej_js_test\bin\pt\Wisej.Core.resources.dll
+E:\JJIT\Interfaces\wisej_js_test\wisej_js_test\bin\de\Wisej.Web.resources.dll
+E:\JJIT\Interfaces\wisej_js_test\wisej_js_test\bin\fr\Wisej.Web.resources.dll
+E:\JJIT\Interfaces\wisej_js_test\wisej_js_test\bin\pt\Wisej.Web.resources.dll
+E:\JJIT\Interfaces\wisej_js_test\wisej_js_test\obj\Debug\wisej_js_test.vbprojResolveAssemblyReference.cache
+E:\JJIT\Interfaces\wisej_js_test\wisej_js_test\obj\Debug\wisej_js_test.Resources.resources
+E:\JJIT\Interfaces\wisej_js_test\wisej_js_test\obj\Debug\wisej_js_test.Window1.resources
+E:\JJIT\Interfaces\wisej_js_test\wisej_js_test\obj\Debug\wisej_js_test.vbproj.GenerateResource.Cache
+E:\JJIT\Interfaces\wisej_js_test\wisej_js_test\obj\Debug\wisej_js_test.dll
+E:\JJIT\Interfaces\wisej_js_test\wisej_js_test\obj\Debug\wisej_js_test.pdb
+E:\JJIT\Interfaces\wisej_js_test\wisej_js_test\bin\Resources\JScript1.js
+E:\0 신사업\demo\webPA\newrep\0 wisej\0 wise-sample\0 HTML\html\wisej_js_test\bin\Resources\JScript1.js
+E:\0 신사업\demo\webPA\newrep\0 wisej\0 wise-sample\0 HTML\html\wisej_js_test\bin\wisej_js_test.dll.config
+E:\0 신사업\demo\webPA\newrep\0 wisej\0 wise-sample\0 HTML\html\wisej_js_test\bin\wisej_js_test.dll
+E:\0 신사업\demo\webPA\newrep\0 wisej\0 wise-sample\0 HTML\html\wisej_js_test\bin\wisej_js_test.pdb
+E:\0 신사업\demo\webPA\newrep\0 wisej\0 wise-sample\0 HTML\html\wisej_js_test\bin\Wisej.Framework.dll
+E:\0 신사업\demo\webPA\newrep\0 wisej\0 wise-sample\0 HTML\html\wisej_js_test\bin\Wisej.Framework.xml
+E:\0 신사업\demo\webPA\newrep\0 wisej\0 wise-sample\0 HTML\html\wisej_js_test\bin\de\Wisej.Framework.resources.dll
+E:\0 신사업\demo\webPA\newrep\0 wisej\0 wise-sample\0 HTML\html\wisej_js_test\bin\es\Wisej.Framework.resources.dll
+E:\0 신사업\demo\webPA\newrep\0 wisej\0 wise-sample\0 HTML\html\wisej_js_test\bin\fr\Wisej.Framework.resources.dll
+E:\0 신사업\demo\webPA\newrep\0 wisej\0 wise-sample\0 HTML\html\wisej_js_test\bin\it\Wisej.Framework.resources.dll
+E:\0 신사업\demo\webPA\newrep\0 wisej\0 wise-sample\0 HTML\html\wisej_js_test\bin\pt\Wisej.Framework.resources.dll
+E:\0 신사업\demo\webPA\newrep\0 wisej\0 wise-sample\0 HTML\html\wisej_js_test\bin\tr\Wisej.Framework.resources.dll
+E:\0 신사업\demo\webPA\newrep\0 wisej\0 wise-sample\0 HTML\html\wisej_js_test\obj\Debug\wisej_js_test.vbproj.AssemblyReference.cache
+E:\0 신사업\demo\webPA\newrep\0 wisej\0 wise-sample\0 HTML\html\wisej_js_test\obj\Debug\wisej_js_test.Resources.resources
+E:\0 신사업\demo\webPA\newrep\0 wisej\0 wise-sample\0 HTML\html\wisej_js_test\obj\Debug\wisej_js_test.Window1.resources
+E:\0 신사업\demo\webPA\newrep\0 wisej\0 wise-sample\0 HTML\html\wisej_js_test\obj\Debug\wisej_js_test.vbproj.GenerateResource.cache
+E:\0 신사업\demo\webPA\newrep\0 wisej\0 wise-sample\0 HTML\html\wisej_js_test\obj\Debug\wisej_js_test.vbproj.CoreCompileInputs.cache
+E:\0 신사업\demo\webPA\newrep\0 wisej\0 wise-sample\0 HTML\html\wisej_js_test\obj\Debug\wisej_js_test.vbproj.CopyComplete
+E:\0 신사업\demo\webPA\newrep\0 wisej\0 wise-sample\0 HTML\html\wisej_js_test\obj\Debug\wisej_js_test.dll
+E:\0 신사업\demo\webPA\newrep\0 wisej\0 wise-sample\0 HTML\html\wisej_js_test\obj\Debug\wisej_js_test.pdb
+E:\0 신사업\demo\webPA\newrep\0 wisej\0 wise-sample\0 HTML\html\html\wisej_js_test\bin\Resources\JScript1.js
+E:\0 신사업\demo\webPA\newrep\0 wisej\0 wise-sample\0 HTML\html\html\wisej_js_test\bin\wisej_js_test.dll.config
+E:\0 신사업\demo\webPA\newrep\0 wisej\0 wise-sample\0 HTML\html\html\wisej_js_test\bin\wisej_js_test.dll
+E:\0 신사업\demo\webPA\newrep\0 wisej\0 wise-sample\0 HTML\html\html\wisej_js_test\bin\wisej_js_test.pdb
+E:\0 신사업\demo\webPA\newrep\0 wisej\0 wise-sample\0 HTML\html\html\wisej_js_test\bin\Wisej.Framework.dll
+E:\0 신사업\demo\webPA\newrep\0 wisej\0 wise-sample\0 HTML\html\html\wisej_js_test\bin\Wisej.Framework.xml
+E:\0 신사업\demo\webPA\newrep\0 wisej\0 wise-sample\0 HTML\html\html\wisej_js_test\bin\de\Wisej.Framework.resources.dll
+E:\0 신사업\demo\webPA\newrep\0 wisej\0 wise-sample\0 HTML\html\html\wisej_js_test\bin\es\Wisej.Framework.resources.dll
+E:\0 신사업\demo\webPA\newrep\0 wisej\0 wise-sample\0 HTML\html\html\wisej_js_test\bin\fr\Wisej.Framework.resources.dll
+E:\0 신사업\demo\webPA\newrep\0 wisej\0 wise-sample\0 HTML\html\html\wisej_js_test\bin\it\Wisej.Framework.resources.dll
+E:\0 신사업\demo\webPA\newrep\0 wisej\0 wise-sample\0 HTML\html\html\wisej_js_test\bin\pt\Wisej.Framework.resources.dll
+E:\0 신사업\demo\webPA\newrep\0 wisej\0 wise-sample\0 HTML\html\html\wisej_js_test\bin\tr\Wisej.Framework.resources.dll
+E:\0 신사업\demo\webPA\newrep\0 wisej\0 wise-sample\0 HTML\html\html\wisej_js_test\obj\Debug\wisej_js_test.vbproj.AssemblyReference.cache
+E:\0 신사업\demo\webPA\newrep\0 wisej\0 wise-sample\0 HTML\html\html\wisej_js_test\obj\Debug\wisej_js_test.Resources.resources
+E:\0 신사업\demo\webPA\newrep\0 wisej\0 wise-sample\0 HTML\html\html\wisej_js_test\obj\Debug\wisej_js_test.Window1.resources
+E:\0 신사업\demo\webPA\newrep\0 wisej\0 wise-sample\0 HTML\html\html\wisej_js_test\obj\Debug\wisej_js_test.vbproj.GenerateResource.cache
+E:\0 신사업\demo\webPA\newrep\0 wisej\0 wise-sample\0 HTML\html\html\wisej_js_test\obj\Debug\wisej_js_test.vbproj.CoreCompileInputs.cache
+E:\0 신사업\demo\webPA\newrep\0 wisej\0 wise-sample\0 HTML\html\html\wisej_js_test\obj\Debug\wisej_js_test.vbproj.CopyComplete
+E:\0 신사업\demo\webPA\newrep\0 wisej\0 wise-sample\0 HTML\html\html\wisej_js_test\obj\Debug\wisej_js_test.dll
+E:\0 신사업\demo\webPA\newrep\0 wisej\0 wise-sample\0 HTML\html\html\wisej_js_test\obj\Debug\wisej_js_test.pdb

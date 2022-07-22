@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="widget1.InitScript" xml:space="preserve">
+    <value>//@ sourceURL=wisej.web.Widget.startup.js
+
+/**
+ * Initializes the widget.
+ *
+ * This function is called when the InitScript property of
+ * wisej.web.Widget changes.
+ *
+ * 'this' refers to the container which is a wisej.web.Widget instance.
+ *
+ * 'this.container' refers to the DOM element and can be used to initialize
+ * the third party javascript widget.
+ *
+ */
+ this.init = function() {{
+
+            // your initialization code.
+            var me = this;
+            console.log(""last of init"");
+           this.container.innerHTML = ""<table> border='1' cellpadding="0" width="500"><tr> <label> Please sign on the Signature pad and click Save.</label><td height="100" width="500"><canvas id="cnv" name="cnv" width="500" height="100"></canvas> </td></tr></table><p id="sigWebVrsnNote" style="font-family: Arial;"></p><form action="#" name="FORM1"><input id="button1" name="ClearBtn" type="button" value="Clear" onclick="javascript:onClear()" /><input id="button2" name="DoneBtn" type="button" value="Save" onclick="javascript: onDone()" /></form>";
+                let cnv = document.getElementById('cnv'); //the canvas that the signature image will be displayed once the signing process is complete
+var ctx = cnv.getContext(""2d"");
+ctx.font = ""15px Arial"";
+            ctx.textAlign = ""center"";
+            ctx.fillText(""Click to Sign"", cnv.width / 2, cnv.height / 2);
+cnv.addEventListener(""click"", function(){{ this.StartSign(); }});
+//            cnv.onmousedown = function(){{
+
+            //                    this.StartSign();
+
+            //}};
+            
+            console.log(""last of init1"");
+			
+        }}
+var imgWidth;
+	var imgHeight;
+this.StartSign = function(){{
+
+        var isInstalled = document.documentElement.getAttribute('SigPlusExtLiteExtension-installed');  
+	    if (!isInstalled) {{
+	        alert(""SigPlusExtLite extension is either not installed or disabled. Please install or enable extension."");
+			return;
+	    }}	
+	    var canvasObj = document.getElementById('cnv');
+		canvasObj.getContext('2d').clearRect(0, 0, canvasObj.width, canvasObj.height);
+		document.FORM1.sigStringData.value = ""SigString: "";
+		document.FORM1.sigRawData.value = ""Base64 String: "";
+		imgWidth = canvasObj.width;
+		imgHeight = canvasObj.height;
+		var message = {{ ""firstName"": """", ""lastName"": """", ""eMail"": """", ""location"": """", ""imageFormat"": 1, ""imageX"": imgWidth, ""imageY"": imgHeight, ""imageTransparency"": false, ""imageScaling"": false, ""maxUpScalePercent"": 0.0, ""rawDataFormat"": ""ENC"", ""minSigPoints"": 25 }};
+			
+		top.document.addEventListener('SignResponse', SignResponse, false);
+		var messageData = JSON.stringify(message);
+		var element = document.createElement(""MyExtensionDataElement"");
+		element.setAttribute(""messageAttribute"", messageData);
+		document.documentElement.appendChild(element);
+		var evt = document.createEvent(""Events"");
+		evt.initEvent(""SignStartEvent"", true, false);				
+		element.dispatchEvent(evt);		
+}}
+
+this.SignResponse = function(event)
+	{{
+        var str = event.target.getAttribute(""msgAttribute"");
+		var obj = JSON.parse(str);
+		SetValues(obj, imgWidth, imgHeight);
+	}}
+this.SetValues = function(objResponse, imageWidth, imageHeight)
+	{{
+        var obj = null;
+		if(typeof(objResponse) === 'string'){{
+			obj = JSON.parse(objResponse);
+		}} else{{
+			obj = JSON.parse(JSON.stringify(objResponse));
+		}}		
+		
+	    var ctx = document.getElementById('cnv').getContext('2d');
+
+			<!--if (obj.errorMsg != null & obj.errorMsg!="""" & obj.errorMsg!=""undefined"")
+			{{
+                alert(obj.errorMsg);
+            }}
+            else
+			{{-->
+                if (obj.isSigned)
+				{{
+                    document.FORM1.sigRawData.value += obj.imageData;
+					document.FORM1.sigStringData.value += obj.sigString;
+					var img = new Image();
+					img.onload = function () 
+					{{
+						ctx.drawImage(img, 0, 0, imageWidth, imageHeight);
+					}}
+					img.src = ""data:image/png;base64,"" + obj.imageData;
+                }}
+            <!--}}-->
+    }}
+ </value>
+  </data>
+</root>
